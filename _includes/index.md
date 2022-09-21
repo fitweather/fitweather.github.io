@@ -22,3 +22,7 @@ The user has to find a city or a location with a preferable weather which will b
   quality index (AQI) of a location.
 
 - The user can give two cities as inputs and the user will be able to compare the weather of these two cities.
+
+# User Potential Obstacles
+
+The score of two cities may be equal. Users may still take efforts to select the city manually.
